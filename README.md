@@ -25,4 +25,3 @@
 | Inkompass       | Спб, Мск, Ростов, Краснодар, Екб, Новосиб, Уфа, Пермь | до 30 апреля | ??? | ???                     | ???                      | [тык](https://vk.com/insidepmi?w=wall-108530035_4741)                             | ???   |
 | P&G             | Мск, Новомосковск                                     | ???          | да? | ???                     | ???                      | [тык](http://russia.pgcareers.com/search-jobs/)                                   | ???   |
 | Оk.ru           | Спб                                                   | ???          | да? | ???                     | Java                     | [тык](https://v.ok.ru/interns.html)                                               | ???   |
-
